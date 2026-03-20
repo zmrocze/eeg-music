@@ -1,0 +1,6 @@
+[submodule "code"]
+	path = code
+	url = https://github.com/zmrocze/eeg-music-code
+[submodule "thesis"]
+	path = thesis
+	url = https://github.com/zmrocze/eeg-music-thesis
